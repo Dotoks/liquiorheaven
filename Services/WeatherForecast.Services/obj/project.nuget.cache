@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWVsLL0neCmDbIYdnT6c83BC98FX0LhnalfQcLwdP68xp2/m+rm9c1hDYmsk74Ecb6M6ksRKY7j+ECy9ME/sNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivo\\Desktop\\liquiorheaven\\liquiorheaven\\Services\\WeatherForecast.Services\\WeatherForecast.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivo\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Ivo\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.deps.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.deps.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\bin\Debug\netstandard2.1\WeatherForecast.Services.Mapping.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services.Mapping\obj\Debug\netstandard2.1\WeatherForecast.Services.Mapping.pdb

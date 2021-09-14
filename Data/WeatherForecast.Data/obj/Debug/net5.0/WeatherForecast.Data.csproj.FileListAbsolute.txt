@@ -1,0 +1,46 @@
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.deps.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.runtimeconfig.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\ref\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Common.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Common.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Models.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Common.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Common.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Models.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csproj.CopyComplete
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\ref\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.deps.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.runtimeconfig.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.runtimeconfig.dev.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\ref\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Common.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Common.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Models.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Common.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Common.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\bin\Debug\net5.0\WeatherForecast.Data.Models.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.csproj.CopyComplete
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\ref\WeatherForecast.Data.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Data\WeatherForecast.Data\obj\Debug\net5.0\WeatherForecast.Data.genruntimeconfig.cache

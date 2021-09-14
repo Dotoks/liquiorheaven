@@ -1,0 +1,17 @@
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.deps.json
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.pdb
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.csprojAssemblyReference.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.dll
+C:\Users\Ivo\Desktop\VERI IMPROTA STUF\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.deps.json
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\bin\Debug\netstandard2.1\WeatherForecast.Services.pdb
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.dll
+C:\Users\Ivo\Desktop\liquiorheaven\weatherForecast\Services\WeatherForecast.Services\obj\Debug\netstandard2.1\WeatherForecast.Services.pdb

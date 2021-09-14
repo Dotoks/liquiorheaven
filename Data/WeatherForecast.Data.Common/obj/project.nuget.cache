@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "elfP7zkcrQnVt/aT9Jt9CHSvlYn0ZThb/Omlp2PzIT5Vp4YGLumN7tn4G/Phv3H8u91uTOi1iQz2di2QdDGMkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivo\\Desktop\\liquiorheaven\\liquiorheaven\\Data\\WeatherForecast.Data.Common\\WeatherForecast.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivo\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Ivo\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\Ivo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
